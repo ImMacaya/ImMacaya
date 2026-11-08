@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Macaya
 
-🎓 Estudante de Ciência da Computação (8º semestre)  
-💻 Analista de Helpdesk com transição para Desenvolvimento Back-End  
-🚀 Apaixonado por tecnologia, astronomia e Muay Thai (sim, eu soco bugs até a lua, pode acreditar 🥊)
+🎓 Bacharel em Ciência da Computação  
+💻 Analista de Suporte de TI e Automação com transição para Desenvolvimento Back-End  
+🚀 Apaixonado por tecnologia, astronomia e Muay Thai (sim, eu chuto bugs até a lua, pode acreditar 🥊)
 
 ---
 
