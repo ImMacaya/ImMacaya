@@ -1,42 +1,49 @@
-# 👋 Olá! Eu sou o Macaya
+Hi, I'm Macaya! 👋
 
-🎓 Bacharel em Ciência da Computação  
-💻 Analista de Suporte de TI e Automação com transição para Desenvolvimento Back-End  
-🚀 Apaixonado por tecnologia, astronomia e Muay Thai (sim, eu chuto bugs até a lua, pode acreditar 🥊)
+Backend Developer in progress | Python | SQL
+
+I'm a Computer Science graduate with experience in IT support, currently focused on backend development and software engineering.
+
+I enjoy understanding how systems work, solving technical problems, and building practical software solutions.
+
+🎯 Current Focus
+
+- Python and backend development
+- REST API development
+- SQL and relational databases
+- Software architecture and clean code
+- Automated testing and Git workflows
+
+🛠️ Technologies & Tools
+
+Currently studying and working with:
+
+- Python
+- SQL
+- PostgreSQL
+- Git and GitHub
+- Automated testing with Pytest
+
+🚀 Featured Projects
+
+"User Registry — Python" (https://github.com/ImMacaya/User-Registry-py)
+
+A command-line user management application built with Python, SQLite, Typer and Rich.
+
+- User CRUD operations
+- Password hashing with PBKDF2
+- Layered architecture
+- Automated tests with Pytest
+
+📚 What I'm Learning
+
+I'm continuously improving my backend development skills, exploring API design, database modeling, software architecture and collaborative development.
+
+🤝 Let's Connect
+
+- GitHub: "@ImMacaya" (https://github.com/ImMacaya)
+- LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/in/danielrodriguesmacaya)
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Sou um profissional em constante aprendizado, buscando unir minha vivência prática em suporte técnico com o conhecimento acadêmico em desenvolvimento de sistemas. Tenho interesse especial em *back-end, bancos de dados, APIs REST e desenvolvimento full stack*.  
-
-Atualmente estou estudando:
-
-- ✅ Node.js e Express
-- ✅ Python
-- ✅ SQL com PostgreSQL e MySQL
-- ✅ Git e versionamento de código
-
----
-
-## 🛠️ Em breve por aqui...
-
-📁 Estou desenvolvendo projetos para praticar e demonstrar habilidades práticas, incluindo:
-
-- Um sistema de cadastro de usuários com autenticação
-- Um coletor de dados astronômicos com armazenamento em banco relacional
-- Uma API de controle de estoque
-- Scripts de automação para rotinas de helpdesk
-
-Cada projeto será documentado e publicado aqui no meu GitHub, com código comentado e instruções de uso. Fique à vontade para acompanhar minha evolução!
-
----
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/danielrodriguesmacaya/))  
-📧 Email: profissional.danielmacaya@outlook.com
-
----
-
-“O universo é feito de código. E eu tô aprendendo a decifrar.” 🚀
+Building, learning and improving one commit at a time.
