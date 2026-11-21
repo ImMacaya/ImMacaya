@@ -1,26 +1,34 @@
-# ImMacaya
 
 <p align="center">
-  <img src="./assets/space-banner.png" alt="Space and technology banner" width="100%" />
+  <img
+    src="./assets/space-banner.png"
+    alt="Supernova and black hole in deep space"
+    width="100%"
+  />
 </p>
 
-<h3 align="center">Backend Developer | Python | SQL | Software Engineering</h3>
+<h1 align="center">ImMacaya</h1>
+
+<h3 align="center">
+  Backend Developer | Python | SQL | Software Engineering
+</h3>
 
 <p align="center">
   Building, learning and improving one commit at a time.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImMacaya">
-    <img src="https://img.shields.io/badge/GitHub-ImMacaya-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2563EB?style=for-the-badge" alt="Backend Development" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+<hr/>
 
 ---
 
 ## 👨‍💻 About Me
+
+Hi, I'm Macaya. Daniel Rodrigues Macaya. Careful with the full name, though. It's long enough to have its own gravitational field.
 
 I'm a Computer Science student with a background in IT support, currently focused on backend development and software engineering.
 
