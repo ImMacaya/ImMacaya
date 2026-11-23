@@ -109,7 +109,7 @@ I'm particularly interested in astronomy and the intersection between science, c
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ImMacaya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=ImMacaya&theme=tokyonight&hide_border=true&timezone=America%2FSao_Paulo" alt="GitHub contribution streak" />
 </p>
 
 ## 🤝 Let's Connect
