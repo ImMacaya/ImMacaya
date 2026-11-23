@@ -100,10 +100,11 @@ Technology is a big part of my life, but there is plenty to explore outside the 
 
 I'm particularly interested in astronomy and the intersection between science, computing and data.
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImMacaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImMacaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMacaya&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
 </p>
 
