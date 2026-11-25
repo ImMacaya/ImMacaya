@@ -104,12 +104,12 @@ I'm particularly interested in astronomy and the intersection between science, c
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImMacaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMacaya&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="165" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ImMacaya&theme=tokyonight&hide_border=true&timezone=America%2FSao_Paulo" alt="GitHub contribution streak" />
+  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
 </p>
 
 ## 🤝 Let's Connect
